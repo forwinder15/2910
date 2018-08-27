@@ -1160,6 +1160,12 @@ img.img-responsive {
 /*-- //choose --*/
 /*-- //about --*/
 /*-- gallery --*/
+.w3l-heading {
+    border-top: 80%;
+    border-color: black;
+
+}
+
 .gallery-grid {
     margin-top: 2em;
 }
