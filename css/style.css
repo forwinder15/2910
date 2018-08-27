@@ -996,7 +996,7 @@ figure.effect-jazz:hover figcaption::after {
 	transform: rotate3d(0,0,1,45deg) scale3d(1,1,1);
 }
 figure.effect-jazz:hover h4,
-figure.effect-jazz:hover p {
+figure.effect-img:hover p {
 	opacity: 1;
 	-webkit-transform: scale3d(1,1,1);
 	transform: scale3d(1,1,1);
